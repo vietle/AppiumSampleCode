@@ -3,7 +3,7 @@ package com.saucelabs.appium;
 import java.io.File;
 import java.net.URL;
 import java.util.List;
-import java.util.concurrent.locks.ReentrantReadWriteLock.WriteLock;
+
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -14,7 +14,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import bsh.Console;
+
 
 public class FirstTestCases {
 	public WebDriver driver = null;
