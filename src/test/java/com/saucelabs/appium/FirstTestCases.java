@@ -1,4 +1,4 @@
-package test.java.com.smriti.firsttest;
+package com.saucelabs.appium;
 
 import java.io.File;
 import java.net.URL;
